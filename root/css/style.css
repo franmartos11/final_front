@@ -1,0 +1,10 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul{
+    padding: 40px;
+    
+
+}
